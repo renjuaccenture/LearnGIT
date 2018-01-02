@@ -1,3 +1,3 @@
 # LearnGIT
-For Learning GIT
-Author Renju
+For Learning GIT - One Complex Update
+Author Renju - Second Compex Update
